@@ -8,7 +8,7 @@ An AI-powered web application that helps users discover IT roles matching their 
 📚 Personalized Learning: Provides tailored learning resources for career growth
 🔐 Authentication: Secure login & signup with JWT
 💡 AI-Powered Guidance: Uses OpenAI API for intelligent career recommendations
-🌗 User Profiles: Store skills, track recommendations, and update profile information
+🌗 User Profiles: Store skills, track recommendations, and update profile informations
 
 🛠️ Tech Stack
 
