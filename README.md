@@ -10,7 +10,7 @@ An AI-powered web application that helps users discover IT roles matching their 
 💡 AI-Powered Guidance: Uses OpenAI API for intelligent career recommendations
 🌗 User Profiles: Store skills, track recommendations, and update profile informations
 
-🛠️ Tech Stack
+🛠️ Tech-Stack
 
 Frontend: React.js, Tailwind CSS
 Backend: Node.js, Express.js, MongoDB, Mongoose
